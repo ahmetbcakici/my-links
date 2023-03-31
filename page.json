@@ -22,6 +22,16 @@
       "title": "Instagram",
       "url": "https://instagram.com/ahmetbcakici",
       "icon": "instagram"
-    }
+    },
+    {
+      "title": "YouTube",
+      "url": "https://youtube.com/@ahmetbcakici",
+      "icon": "youtube"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@ahmetbcakici",
+      "icon": "medium"
+    }    
   ]
 }
